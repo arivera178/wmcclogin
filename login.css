@@ -1,0 +1,31 @@
+#wmcct65logo{ 
+    width: 10%;
+    height: 10%;
+}
+#passwordfield, #usernamefield{ 
+    width: 150px;
+    height: 20px;
+}
+#currentevent{ 
+    font-weight: normal;
+    font-size: 1.5em;
+    
+}
+#eventtype{
+    color: orange;
+}
+div{
+    background-color: #f7931d;
+    display: block;
+    width: 300px;
+    height: 550px;
+}
+#button{
+    width: 30%;
+}
+a:visited { 
+    color: blue;
+  }
+a{
+    color: blue;
+}
